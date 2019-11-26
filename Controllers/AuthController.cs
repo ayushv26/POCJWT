@@ -41,7 +41,7 @@ namespace JWTPOC.Controllers
                     return Ok(tokenString);
                 }
             }
-            return BadRequest("wrong request");
+            return BadRequest("Bad request");
         }
     }
 }
