@@ -1,0 +1,14 @@
+D:\Ayush Vyas\Ayush_JWT_POC\JWTPOC\JWTPOC\bin\Debug\netcoreapp2.1\JWTPOC.deps.json
+D:\Ayush Vyas\Ayush_JWT_POC\JWTPOC\JWTPOC\bin\Debug\netcoreapp2.1\JWTPOC.runtimeconfig.json
+D:\Ayush Vyas\Ayush_JWT_POC\JWTPOC\JWTPOC\bin\Debug\netcoreapp2.1\JWTPOC.runtimeconfig.dev.json
+D:\Ayush Vyas\Ayush_JWT_POC\JWTPOC\JWTPOC\bin\Debug\netcoreapp2.1\JWTPOC.dll
+D:\Ayush Vyas\Ayush_JWT_POC\JWTPOC\JWTPOC\bin\Debug\netcoreapp2.1\JWTPOC.pdb
+D:\Ayush Vyas\Ayush_JWT_POC\JWTPOC\JWTPOC\obj\Debug\netcoreapp2.1\JWTPOC.csprojAssemblyReference.cache
+D:\Ayush Vyas\Ayush_JWT_POC\JWTPOC\JWTPOC\obj\Debug\netcoreapp2.1\JWTPOC.csproj.CoreCompileInputs.cache
+D:\Ayush Vyas\Ayush_JWT_POC\JWTPOC\JWTPOC\obj\Debug\netcoreapp2.1\JWTPOC.RazorAssemblyInfo.cache
+D:\Ayush Vyas\Ayush_JWT_POC\JWTPOC\JWTPOC\obj\Debug\netcoreapp2.1\JWTPOC.RazorAssemblyInfo.cs
+D:\Ayush Vyas\Ayush_JWT_POC\JWTPOC\JWTPOC\obj\Debug\netcoreapp2.1\JWTPOC.AssemblyInfoInputs.cache
+D:\Ayush Vyas\Ayush_JWT_POC\JWTPOC\JWTPOC\obj\Debug\netcoreapp2.1\JWTPOC.AssemblyInfo.cs
+D:\Ayush Vyas\Ayush_JWT_POC\JWTPOC\JWTPOC\obj\Debug\netcoreapp2.1\JWTPOC.RazorTargetAssemblyInfo.cache
+D:\Ayush Vyas\Ayush_JWT_POC\JWTPOC\JWTPOC\obj\Debug\netcoreapp2.1\JWTPOC.dll
+D:\Ayush Vyas\Ayush_JWT_POC\JWTPOC\JWTPOC\obj\Debug\netcoreapp2.1\JWTPOC.pdb
